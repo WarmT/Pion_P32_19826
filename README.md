@@ -1,4 +1,4 @@
-# Pioneeripataljoona 32:n sotäpäiväkirja 1941-1941 (19826)
+# Pioneeripataljoona 32:n sotapäiväkirja 1941-1941 (19826)
 
 Luettava PDF muotoionen sotapäiväkirja löytyy tiedostosta [Pion_P32_19826.pdf](Pion_P32_19826.pdf). Tämä sotapäiväkirja perustuu Kansallisarkiston digitaaliarkistosta löytyviin digitoituihin jaksoihin arkistoyksiköstä Pioneeripataljoona 32 1941-1941 (19826), joka löytyy osoitteesta:
 http://digi.narc.fi/digi/slistaus.ka?ay=80360
